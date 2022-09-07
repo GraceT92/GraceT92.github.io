@@ -1,10 +1,7 @@
 div{
 position: relative;
-top: 100px;
+top: 10px;
 }
-ocean{
-    width: 300px;
-}
-.scene{
-    width: 120px;
+img{
+    width: 200px;
 }
